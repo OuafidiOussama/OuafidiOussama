@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **NextJs and NestJs**
 - 💬 Ask me about **Reactjs, ReactNative, VueJs, ExpressJs, NodeJs**
 - 📫 How to reach me **oussamaouafidi0@gmail.com**
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1vNF9blbd0gdSnpc1rBDpHx5kfqTW4930/view?usp=sharing" target="_blank">My CV</a>**
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1GguFtIYvUhmybainzWFWG52p24nBcJ8h/view" target="_blank">French Cv</a> OR <a href="https://drive.google.com/file/d/1Ng3f9QtI82p9hcC_z64pp-VsIcZpHuSw/view?usp=drive_link" target="_blank">English Cv</a>**
 - ⚡ Fun fact **I Love Music**
 - 💻 Portfolio (Work In Progress) **<a href="https://ouafidi-portfolio.netlify.app/" target="_blank">OUAFIDI's Portfolio</a>**
 
